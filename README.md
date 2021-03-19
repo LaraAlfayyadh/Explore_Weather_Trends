@@ -2,7 +2,7 @@
 
 ## Explore_Weather_Trends
 
-### by (Mona Alfayyadh)
+### by (Lara Alfayyadh)
 
 **I completed this project as part of Udacity's Data Analyst Nanodegree**
 
